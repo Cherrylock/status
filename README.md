@@ -1,5 +1,3 @@
-Sure, here's a basic README.md template for your Mass DM tool:
-
 ---
 
 # Mass DM Tool
